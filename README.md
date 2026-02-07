@@ -1,3 +1,5 @@
+# Dummy Drone Functions
+
 This project makes use of Mediapipe and OpenCV to make dummy functions for a gesture controlled drone. 
 Apart from basic features such as movement controls it features:
 1) Utility Commands using left hand.
